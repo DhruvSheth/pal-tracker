@@ -1,6 +1,5 @@
 package io.pivotal.pal.tracker
 
-import java.sql.Time
 import java.time.LocalDate
 
 class TimeEntry() {
